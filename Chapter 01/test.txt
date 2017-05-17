@@ -1,0 +1,5 @@
+1
+23    // comment 1
+456   /* comment 2 */                                                                                      
+78910 "/* statment */"
+/* comment 3 */
